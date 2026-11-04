@@ -61,7 +61,7 @@ h2 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
 h3 { font-size: clamp(1.4rem, 2.6vw, 1.7rem); }
 h4 { font-size: 1.25rem; }
 
-p { margin: 0 0 1.1em; }
+p { margin: 0 0 1.1em; text-align: justify; hyphens: auto; }
 p:last-child { margin-bottom: 0; }
 
 a { color: var(--copper-text); text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
@@ -230,7 +230,7 @@ a:hover { color: var(--deep-teal); }
 .facts li { padding: 1.4rem 0; border-top: 1px solid rgba(247, 251, 250, 0.7); }
 .facts li:last-child { border-bottom: 1px solid rgba(247, 251, 250, 0.7); }
 .facts .num { margin-bottom: 0.3rem; }
-.facts p { font-family: var(--display); font-size: 1.45rem; line-height: 1.35; color: var(--charcoal); margin: 0; }
+.facts p { font-family: var(--display); font-size: 1.45rem; line-height: 1.35; color: var(--charcoal); margin: 0; text-align: left; hyphens: manual; }
 @media (min-width: 768px) {
   .facts { grid-template-columns: repeat(3, 1fr); gap: 2.5rem; }
   .facts li, .facts li:last-child { border-bottom: 0; }
