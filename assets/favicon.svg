@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><rect width="48" height="48" rx="9" fill="#0c2a21"/><g fill="none" stroke="#f6f8f3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 8v28M12 16h24M17 40h14"/><path d="M12 16l-6.5 13h13L12 16zM36 16l-6.5 13h13L36 16z"/><path d="M5.5 29a6.5 4 0 0 0 13 0M29.5 29a6.5 4 0 0 0 13 0"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="6" fill="#FBF8F3"/>
+  <rect x="3.5" y="3.5" width="57" height="57" rx="4" fill="none" stroke="#A96B3A" stroke-width="1.5"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Cormorant Garamond, Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" letter-spacing="1" fill="#A96B3A">KA</text>
+</svg>
